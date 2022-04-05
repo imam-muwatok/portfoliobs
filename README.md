@@ -1,3 +1,3 @@
 # portfolio
 
-url : https://imam-muwatok.github.io/portfolio/
+url : https://imam-muwatok.github.io/portfoliobs/
